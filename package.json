@@ -1,0 +1,7 @@
+{
+    "name": "webserver",
+    "version": "1.0.0",
+    "description": "Env var test server for Shipherd E2E",
+    "main": "index.js",
+    "license": "MIT"
+}
