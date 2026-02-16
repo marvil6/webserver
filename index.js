@@ -1,7 +1,7 @@
 const http = require('http');
 
 const port = Number.parseInt('3000', 10);
-const message = 'Hello from Shipherd 5!';
+const message = 'Hello from Shipherd 6!';
 
 const server = http.createServer((req, res) => {
     if (req.url === '/status') {
